@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aroma-dulce/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tu aroma dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aroma-dulce/) |
+| **Get License** | [Official Music Licensing for Tu aroma dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aroma-dulce/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu aroma dulce me tiene volando en la madrugada,
+> Esa mirada tuya cruza la sala y me deja sin palabras.
+> Baby, tú sabes que esta noche no se acaba,
+> Con ese flow de Madrid, mi mente ya está hackeada.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
